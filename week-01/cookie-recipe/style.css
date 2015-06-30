@@ -1,0 +1,24 @@
+body {
+	background: #FFE;
+	color: black;
+	font-family: helvetica;
+	border: 1px solid #000;
+}
+
+div {
+	width: 50%;
+	margin: 0px auto 0px auto;
+}
+
+img { 
+   border: 1px solid #000;
+} 
+
+
+h3 {
+	color:#887;
+}
+
+a {
+	color:#900;
+}
