@@ -1,2 +1,2 @@
-# General Assembly - Front-End Web Development 
+# General Assembly 
 A repo with the coding exercises from GA's FEWD course 
